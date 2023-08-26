@@ -1,0 +1,7 @@
+{
+  "name": "appConfi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
